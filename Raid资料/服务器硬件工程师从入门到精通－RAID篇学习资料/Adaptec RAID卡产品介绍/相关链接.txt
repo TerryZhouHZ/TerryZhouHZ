@@ -1,0 +1,11 @@
+Adaptec免维护缓存数据保护(ZMCP)解决方案
+
+https://storage.microsemi.com/zh-cn/solutions/zmcp/
+
+Adaptec maxCache缓存解决方案
+
+https://storage.microsemi.com/zh-cn/solutions/maxcache/
+
+Adaptec混合RAID解决方案
+
+https://storage.microsemi.com/zh-cn/solutions/hybrid-raid/
